@@ -19,6 +19,7 @@ Maintained by [@Mattbusel](https://github.com/Mattbusel). Projects by the mainta
 - [Quantitative Finance + LLMs](#quantitative-finance--llms)
 - [WebAssembly & Edge](#webassembly--edge)
 - [Learning Resources](#learning-resources)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with LLM infrastructure observability, GPU utilization monitoring, AI workload tracing, and CNCF integrations. CNCF Sandbox project.
 
 ---
 
