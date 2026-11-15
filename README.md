@@ -112,6 +112,7 @@ Vector stores, episodic memory and persistent agent context.
 - [**chroma**](https://github.com/chroma-core/chroma) - Open-source embedding database with a simple API and metadata filtering. `Rust` `Python`
 - [**mem0**](https://github.com/mem0ai/mem0) - Memory layer that extracts and recalls user facts across sessions. `Python`
 - [**zep**](https://github.com/getzep/zep) - Long-term memory for LLM apps with a temporal knowledge graph. `Python`
+- [**hyperconsciousness**](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with device sync and scoped, expiring MCP grants; source installation. `Rust`
 
 ---
 
